@@ -43,5 +43,5 @@ class snapChallenge {
 }
 
 $snapChallenge = new snapChallenge("Ryan", 27);
-var_dump($snapChallenge);
-
+$snapChallenge->setAge(28);
+var_dump($snapChallenge->getAge());
