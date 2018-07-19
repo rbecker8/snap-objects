@@ -42,6 +42,6 @@ class snapChallenge {
 	}
 }
 
-$snapChallenge = new snapChallenge("Oh Snap!", 33);
+$snapChallenge = new snapChallenge("Ryan", 27);
 var_dump($snapChallenge);
 
